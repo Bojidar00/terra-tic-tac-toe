@@ -1,0 +1,18 @@
+{
+  "localterra": {
+    "tic-tac-toe": {
+      "codeId": "10",
+      "contractAddresses": {
+        "default": "terra1cnljvu6vnldn20dq8rszgx95uflvdvc66p6yf3"
+      }
+    }
+  },
+  "testnet": {
+    "tic-tac-toe": {
+      "codeId": "56636",
+      "contractAddresses": {
+        "default": "terra1f9fny49prrchj79qt6vqe0qkjwgftdrghzk632"
+      }
+    }
+  }
+}

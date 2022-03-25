@@ -1,0 +1,2 @@
+84830b38416899abe549aaa88c3ddcd63f0265c8fb2b74047f3fec64e35642e6  ./target/wasm32-unknown-unknown/release/counter.wasm
+a728d7293ebbeee5f89896138918f5b97a78e6a6cc7e1302b237f958e71ced10  ./target/wasm32-unknown-unknown/release/tic_tac_toe.wasm
